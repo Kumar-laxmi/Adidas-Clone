@@ -27,18 +27,6 @@ body, html {
     height: 100%;
 }
 
-
-a.footer-link-bold {
-    font-family: "Nike Futura";
-    text-decoration: none;
-}
-
-a.footer-link-light {
-    font-family: "Helvetica Neue";
-    text-decoration: none;
-    font-size: 12px;
-}
-
 a.nav-link{
     position: relative;
     color: #000;
@@ -110,15 +98,32 @@ a.btn-light:hover {
     transition: transform 0.6s ease-in-out;
 }
 
-.bg { 
-    /* The image used */
-    background-image: url("../IMG/Banner-main.jpg");
-  
-    /* Full height */
-    height: 100%; 
-  
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.banner-top-title {
+    font-family: AdineuePRO-Bold;
+    font-size: 42px;
+    line-height: 38px;
+}
+
+.banner-top-para {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.banner-top-anchor {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.banner-top-anchor:hover {
+    color: white;
+    background-color: black;
+    transition: transform 0.6s ease-in-out;
 }
