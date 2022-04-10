@@ -1,8 +1,31 @@
 @font-face {
-    font-family: AdihausDIN;
-    src: url(../FONT/AdihausDIN/AdihausDIN-CnBoldItalic.woff2) format("opentype");
+    font-family: AdihausDIN-Bold-Italics;
+    src: url(../FONT/AdihausDIN-BoldItalics/AdihausDIN-CnBoldItalic.woff2) format("opentype");
 }
 
+@font-face {
+    font-family: AdihausDIN-Bold;
+    src: url(../FONT/AdihausDIN-Bold/AdihausDIN-Bold.woff2) format("opentype");
+}
+
+@font-face {
+    font-family: AdihausDIN-Regular;
+    src: url(../FONT/AdihausDIN-Regular/AdihausDIN-Regular.woff2) format("opentype");
+}
+
+@font-face {
+    font-family: AdineuePRO-Bold;
+    src: url(../FONT/AdineuePRO-Bold/adineuePRO-Bold.woff2) format("opentype");
+}
+
+@font-face {
+    font-family: AdineuePRO-Regular;
+    src: url(../FONT/AdineuePRO-regular/adineuePRO-Regular.woff2) format("opentype");
+}
+
+body, html {
+    height: 100%;
+}
 
 
 a.footer-link-bold {
@@ -85,4 +108,17 @@ a.btn-light:hover {
     background-color: black;
     border: none;
     transition: transform 0.6s ease-in-out;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("../IMG/Banner-main.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
