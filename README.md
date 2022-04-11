@@ -28,8 +28,5 @@ This is a Clone of Adidas Website
 
 
 ### Screen-Shot of Clone:
-<img src="./Screen-Shots/SS1.png" alt="Adidas Clone">
-<img src="./Screen-Shots/SS2.png" alt="Adidas Clone">
-<img src="./Screen-Shots/SS3.png" alt="Adidas Clone">
-<img src="./Screen-Shots/SS4.png" alt="Adidas Clone">
-<img src="./Screen-Shots/SS5.png" alt="Adidas Clone">
+<img src="./IMG/Screenshot.png" alt="Adidas Clone">
+
