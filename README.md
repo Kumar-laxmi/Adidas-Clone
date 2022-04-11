@@ -4,9 +4,9 @@ This is a Clone of Adidas Website
 ### Deployment
 | Environment | Link |
 |-------------|------|
-| GitHub Pages | [GitHub Pages](https://kumar-laxmi.github.io/Nike-Clone/) |
-| Vercel Preview | [Vercel Preview](https://wikipedia-clone-lwowslzju-kumar-laxmi.vercel.app/) |
-| Vercel Production | [Vercel Production](https://nike-clone-3zpxwddmb-kumar-laxmi.vercel.app/)
+| GitHub Pages | [GitHub Pages](https://kumar-laxmi.github.io/Adidas-Clone/) |
+| Vercel Preview | [Vercel Preview](https://adidas-clone-m0u27psc8-kumar-laxmi.vercel.app/) |
+| Vercel Production | [Vercel Production](https://adidas-clone-m0u27psc8-kumar-laxmi.vercel.app/)
 
 ### Technology Stack
 #### Languages:
@@ -28,4 +28,8 @@ This is a Clone of Adidas Website
 
 
 ### Screen-Shot of Clone:
-<img src="#" alt="Adidas Clone">
+<img src="./Screen-Shots/SS1.png" alt="Adidas Clone">
+<img src="./Screen-Shots/SS2.png" alt="Adidas Clone">
+<img src="./Screen-Shots/SS3.png" alt="Adidas Clone">
+<img src="./Screen-Shots/SS4.png" alt="Adidas Clone">
+<img src="./Screen-Shots/SS5.png" alt="Adidas Clone">
