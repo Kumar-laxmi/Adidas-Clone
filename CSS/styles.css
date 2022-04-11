@@ -154,3 +154,30 @@ a.btn-light:hover {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.bg-yellow {
+    background-color: #ede734;
+    overflow: hidden;
+    color: #000;
+}
+
+.card-title-yellow {
+    font-family: AdineuePRO-Bold;
+    line-height: 35px;
+    font-size: 30px;
+}
+
+.Font-Pro-Bold {
+    font-family: AdineuePRO-Bold;
+}
+
+.footer-link-light {
+    font-family: AdihausDIN-Regular;
+    text-decoration: none;
+}
+
+.footer-link-bold {
+    font-family: AdihausDIN-Bold;
+    text-decoration: none;
+}
+
